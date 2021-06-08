@@ -1,5 +1,4 @@
 
-//12-02-2021
 import java.util.Scanner;
 
 class Zohoround1 {
